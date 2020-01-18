@@ -1,3 +1,8 @@
+/**
+ * Author: Shahbaj Jamil
+ *profile: https://github.com/shahbajjamil
+  */
+  
 import 'package:flutter/material.dart';
 import './quiz_page.dart';
 import './info.dart';
