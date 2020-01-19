@@ -6,7 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+#### Animation
+- [x] Question PopUp
+- [x] Answer Correct/Wrong PopUp
+- [x] Total Score
 
+***
 ### Screenshots
 <!-- ![home](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_01.png)
 ![home Tap](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_05.png)
@@ -18,7 +23,7 @@ This project is a starting point for a Flutter application.
 
 <img src="flutter_01.png" height="300em" /> <img src="flutter_05.png" height="300em" /> <img src="flutter_02.png" height="300em" /> <img src="flutter_03.png" height="300em" /> <img src="flutter_04.png" height="300em" /><img src="flutter_06.png" height="300em" />
 
-
+***
 
 A few resources to get you started if this is your first Flutter project:
 
