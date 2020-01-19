@@ -8,7 +8,8 @@ This project is a starting point for a Flutter application.
 
 ---
 ### Screenshots
-![home](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_01.png)![home Tap](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_05.png)
+![home](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_01.png)
+![home Tap](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_05.png)
 ![question](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_02.png)
 ![right](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_03.png)
 ![worng](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_04.png)
