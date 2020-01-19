@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
----
+
 ### Screenshots
 <!-- ![home](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_01.png)
 ![home Tap](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_05.png)
@@ -14,7 +14,7 @@ This project is a starting point for a Flutter application.
 ![right](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_03.png)
 ![worng](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_04.png)
 ![result](https://github.com/shahbajjamil/Quiz-App/blob/master/flutter_06.png) -->
-***
+
 
 <img src="flutter_01.png" height="300em" /> <img src="flutter_05.png" height="300em" /> <img src="flutter_02.png" height="300em" /> <img src="flutter_03.png" height="300em" /> <img src="flutter_04.png" height="300em" /><img src="flutter_06.png" height="300em" />
 
